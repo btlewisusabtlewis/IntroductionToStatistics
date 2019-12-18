@@ -1,0 +1,513 @@
+"","Timestamp","What.is.your.gender.","Age","Have.you.taken.a.course.in.Statistics.before.","If.you.have.taken.a.course.in.statistics.before..how.much.did.you.like.it..on.a.scale.of.1..not.at.all..to.10..I.loved.it..","Why.do.you.want.to.take.the.course..A.Gentle.Introduction.to.Statistics..","Please.give.three.reasons.why.statistics.could.be.useful.for.you.","CryStats","Standard.deviations.excite.me","PearsonAngst","I.don.t.understand.statistics","I.have.little.experience.with.computers","All.computers.hate.me","I.have.never.been.good.at.mathematics","Computers.are.useful.only.for.playing.games","I.did.badly.at.mathematics.at.school","I.worry.that.I.will.cause.irreparable.damage.because.of.my.incompetence.with.computers","Computers.have.minds.of.their.own.and.deliberately.go.wrong.whenever.I.use.them","EquationComa","Do.you.want.to.share.any.other.thoughts.","X","The.following.questions.ask.about.how.you.feel.about.statistcis.","Anxiety"
+"1","9/3/15 13:54","Female",44,"yes",10,"I need a refresher. I took one statistics course at the graduate level 15 years ago, and a year-long one at the undergraduate level 25 years ago.","I teach a research methods course and advise senior thesis projects at the college level. More of my students are requiring statistics for their undergraduate research projects. I want to be able to teach and review the basics of statistics with them more comfortably, efficiently, confidently and quickly.",5,2,1,5,5,5,5,5,5,5,5,5,"I am looking forward to this course.",NA,NA,3.66666666666667
+"2","9/3/15 14:15","Male",67,"no",NA,"I teach a high school course in statistics.  I am looking for ideas.","1) I teach statistics.
+2) I intend to review and bring myself back up to speed on statistical physics.
+3) Hang the applications; the math is fascinating. ",1,1,1,4,5,5,5,5,5,5,5,5,"I am looking forward to your course.",NA,NA,2.33333333333333
+"3","9/3/15 22:21","Male",52,"no",NA,"I did a big data course on data science and stats is a key foundation stone to this.","3 out of 5 people said that 43% of the time they solve their problems 17% quicker - on average.
+
+I want to get better insights into how our web services are being used.
+
+There are other projects at work based on stats that I'd like to understand better.
+",3,3,3,3,1,5,3,5,4,5,4,3,"Not at this stage",NA,NA,3
+"4","10/3/15 9:50","Female",46,"yes",2,"realized it's important","How to read and analyze data,
+How to do modeling and design test
+a tool may come in handy",3,3,4,3,5,5,4,5,4,5,5,4,"The more examples of atatistics application, the better.",NA,NA,3.66666666666667
+"5","11/3/15 12:43","Female",39,"no",NA,"I need to gain a more comprehensive understanding of statistics and the course description seemed like a really good way to start.  ","I deal with several proteomics data sets and I would like to be able to assess them statistically for trends and manipulate excel.  
+
+I also deal with statistics in assays and I am always struggling with what all the tests mean and which is the best to use.
+
+I would like to improve my analytical thinking.",1,3,5,1,5,5,3,5,4,5,5,5,"Please help me improve.  I don't know how big the class is, but sometimes 1-1 instruction helps me too.",NA,NA,3.66666666666667
+"6","11/3/15 15:30","Male",68,"yes",3,"To refamiliarize myself with statistics","Accounting, sample selection, validity testing",4,3,5,3,4,5,3,5,3,4,5,4,"None",NA,NA,4.33333333333333
+"7","18/05/15 09:39","Male",50,"SAS JMP",10,"To learn more about statistics fundamental.","I could use it at work for my daily data.
+Could predict some problems ahead of time.
+Save time, effort and money with preventive maintenance on the failing equipment based on past data.",5,1,5,4,5,5,5,5,4,5,5,5,"No.",NA,NA,5
+"8","18/05/15 14:32","Male",78,"yes",8,"Review long forgotten statistics and learn how to use modern tools","Medical Literature review
+Common misuses of statistics
+Clear thinking about uncertain events
+Risk evaluation in many situation: Personal, Financial",4,3,5,4,4,4,5,5,5,5,4,5,"no",NA,NA,4.66666666666667
+"9","18/05/15 22:43","Female",0,"no",NA,"So that I can become more comfortable with using statistics as well as learn touse accurate terminology when I talk about statistics.","1)  It is always good to have a new and useful skill
+2)  To be able to understand and analyze data 
+3)  To be able to evaluate what I read about data and know whether the analysis done is accurate and also if the statistical test used is the right one to obtain the analysis presented. 
+
+ 
+",5,2,5,3,5,5,5,5,5,5,5,5,"I would have liked to see more questions that assessed the students' understanding of statistics and comfort level with computers and doing math rather than some of the questions that were presented.",NA,NA,5
+"10","19/05/15 06:43","Male",76,"no",NA,"
+Trying to understand medical claims, given that Dr. Ioannidis has made me skeptical.","Truth = reality. Or should.
+There are many ways we can fool ourselves. Trying to reduce these.
+I don't know if statistics can clarify.  I do know that it (they) can fool us.
+",4,2,4,3,4,2,4,4,4,4,3,4,".
+I think I will learn something useful.  I hope to not get bogged down or go off into the tall grass.",NA,NA,4
+"11","19/05/15 15:15","Female",45,"yes",10,"I am taking this course mostly as a refresher but also because I teach research methods to undergraduates. I want to teach some basic statistics. I hope this course will give me the tools/ideas to teach it effectively.","I can help my undergraduate students with their research projects when the data used requires simple statistical analysis.",5,2,3,5,5,5,5,5,5,5,5,5,"I am looking forward to this course. ",NA,NA,4.33333333333333
+"12","19/05/15 17:49","Male",68,"yes",5,"To refresh myself on this subject","Selecting sample size
+Verifying the probability of the correctness of information
+Drawing inferences from large amounts of data",4,2,4,3,5,5,3,5,3,5,5,5,"I will be in Japan until June 10th",NA,NA,4.33333333333333
+"13","24/05/15 22:13","Female",35,"yes",2,"Interested in getting reacquainted with statistics as more of my work involves working with Big Data.","1. Making better, data-driven decisions.
+2. Understanding pros/cons of different statistical techniques.
+3. Evaluating statistical analysis.",4,4,5,3,5,5,3,5,4,5,5,3,"N/A",NA,NA,4
+"14","26/05/15 12:20","Male",34,"no",NA,"I've enjoyed considerable success in a creative-based education/profession, but I think my understanding of (and empathy for) others can be increased by developing greater mathematical proficiency.  ","Easier communication and understanding with mathematically/data-driven clients and friends
+Better management of the researchers and writers who work for me
+Increase data-driven decision making in my business and personal finance
+
+
+",3,5,5,1,5,5,3,5,3,5,5,3,"I am looking forward to beginning this process.  Thanks.",NA,NA,3.66666666666667
+"15","28/05/15 22:26","Female",39,"no",NA,"I am never sure of what I am doing when it comes to statistics and I need to know for my profession as a biotech researcher","1) I need to use statistics for my experimental analysis and I would like to know the right tests
+2) I need to understand statistics for large data sets
+3) I need to know statistics for assay development",2,3,2,1,4,4,3,5,3,5,5,4,"No, thank you",NA,NA,2.66666666666667
+"16","3/6/15 11:11","Female",47,"no",NA,"I work in Global Human Resources in the function of Global Learning & Organization Development.  I would like to better understand how to approach survey's, read and interpret survey outcomes and become grounded in the language and definitions of statistics.
+
+I believe this is becoming more and more critical for me to grow greater competence in as I progress in my career.","See answer above.  Very important in my continued career success.",1,3,1,2,5,5,1,5,1,5,5,1,"Math has always posed a challenge for me.  Numbers are so important in the corporate world, I would like to stop giving projects dealing with numbers to others and start to embrace them and fall in love with numbers and know how to approach solving number problems and not have to look them up in google any longer.
+
+I would like to find my inner Math Goddess :-)",NA,NA,1
+"17","3/6/15 22:32","Male",64,"no",NA,"I'm trying to test the waters. I'd like to develop enough literacy to make further study in statistics tolerable. I'd like to know more than the difference between qualitative and quantitative analysis.","1. I'd like to improve my ability to read statistical analysis done by others.
+2. I'd like to learn enough to use statistical functions when writing programs and know what outcome range to expect. 
+3. I'd like to expiriment with some data sets using software, (like NVivo,) in the Social Science Data and Software lab.",5,3,2,2,5,5,3,5,3,5,5,4,"I read some information technology two-way radio request for proposal documents. They specify things like ""speech understandable with repetition only rarely required, and with some noise and/or distortion 95% of the time across 95% of the coverage area."" It would be cool to be able to understand what inputs would affect the above percentages.",NA,NA,3.66666666666667
+"18","4/6/15 12:27","Male",53,"yes",8,"Working on a business intelligence product using 'Big Data', and I want to be comfortable talking to the 'Stat Rats' that are our target audience.  ","1. Help make decisions using objective measures
+2. Understand the right and wrong ways to organize and present data, i.e. know when to be skeptical of 'the facts'. 
+3. Understand how to identify trends and correlations",4,1,5,2,5,5,3,5,1,5,5,5,"It wasn't clear in question #1 about Stat Feelings whether the crying was happy or sad.  I assumed the negative.  
+Would be particularly interested in learning good and bad uses of statistics in business and finance; for instance, to what extent were statistics to used to create the subprime mortgage crisis through the promotion of mortgage backed securities?  Under what circumstances can statistics help you make an accurate forecast, if ever?  Are statistics only good for describing the past, or can they help us predict the future?  Will this class help me in Vegas?   I could go on and on...",NA,NA,4.66666666666667
+"19","5/6/15 6:03","Female",25,"first semester in undergrad (18 y.o.)",2,"Prerequisite for my doctoral program which I am about to begin this fall 2015 and my Masters' program did not have an Intro Stats class","1. I am studying to be a clinical psychologist/clinical researcher and it would be very helpful in conceptualizing my experiment designs if I had a better grasp of statistics myself (instead of just having to ask the postdocs I work with what their recommendation for analyses is)...
+
+2. I am taking an Advanced Psychometric Testing course my first semester as a doc student and testing is closely related to statistics
+
+3. I would love how to learn to use R, but understanding basic statistical concepts is important first ",3,2,3,2,5,4,4,5,5,5,4,3,"I know this is a very basic intro to stats course but I think it will serve me well. As an 18-year old taking my first stats course at UC San Diego, I had no clue why statistics was important or how it might benefit me in the future so I did not pay much attention and now I really regret it. I am hoping that this little taster puts me on a better track for self-learning of stats. :)",NA,NA,3
+"20","8/6/15 14:55","Male",23,"no",NA,"Learn more about statistics in a structured way.","#NAME?",3,4,2,1,5,5,4,4,2,5,5,2,"Nope",NA,NA,2.33333333333333
+"21","10/6/15 20:42","Female",27,"no",2,"Projects at work require some analysis, statistical approach to data. Want a foundation ","#NAME?",2,4,4,1,4,5,2,5,3,5,5,2,"nope ",NA,NA,2.66666666666667
+"22","10/6/15 21:51","Female",26,"yes",4,"I am currently looking for jobs. I have a biomedical background and would like to learn more about the R language, which is now widely applied in biostatistics. ","1. Improve my data analysis skills
+2. Get to know more about the R language
+3. Strengthen my ability to get a new job",3,3,5,4,5,5,5,5,3,5,5,5,"I am thinking about getting a degree in the US and this course probably will give a clue about if I should do a biostatistics or not. ",NA,NA,4.33333333333333
+"23","11/6/15 7:20","Female",40,"yes",6,"I am looking for the practical application of statistical tools","Primary uses will be for my job",5,3,5,2,5,5,4,5,4,5,5,5,"Looking forward to class",NA,NA,5
+"24","18/06/15 12:43","Female",41,"yes",5,"I want to brush up on what I learned before and learn new things","I use a lot of statistics in data analysis in the context of my research",3,4,2,3,4,4,2,4,3,5,5,3,"No",NA,NA,2.66666666666667
+"25","19/06/15 06:25","Female",-54,"yes",8,"I agreed to take the course because my husband wanted to take it.","Statistics are used in many facets of work and life and it is important to understand how they are determined.
+
+It helps to interpret data.
+
+It is useful to know how statistics can be manipulated so that you can make better informed decisions.",5,4,3,4,3,5,4,4,5,5,5,5,"Not really.  We'll just have to see how it goes.  ",NA,NA,4.33333333333333
+"26","19/06/15 14:38","Female",25,"yes",5,"I took a basic introductory statistics course this past year that introduced me to the topics and key concepts, but I am hoping this course will allow me to practice applying those concepts to some real-world analysis.","I use statistics in my job as a quality improvement adviser.  I need to be able to engage in conversations with statisticians and be able to follow their arguments.  I also need to understand how some of the statistical control methods used in quality improvement differ from more typical approaches to analyzing data.  ",5,2,4,3,4,5,5,5,5,5,5,5,"Nope, excited for this class... although now I wonder if I'll fit in if I don't actually fear math and computers!",NA,NA,4.66666666666667
+"27","20/06/15 10:11","Female",23,"yes",8,"This course seems interesting and the description includes things I would like to learn. The course will take examples from different scenarios which I think gives me a broad understanding of different situations.  ","Statistics uses programs and calculations that can be useful in any field that is analyzing data. I want to go to Veterinary School and statistics will give me more practice with calculations I will use in my future.  ",3,3,5,3,5,5,4,5,5,5,4,5,"No more thoughts. ",NA,NA,4.33333333333333
+"28","20/06/15 12:24","Male",58,"yes",3,"I didn't really internalize stats when I took it many years ago. Over the years, I've come to a working-man's understanding, but either never learned, or can't really remember most of the basics. I appreciate the importance of knowing how information is derived so as not to be manipulated into bad decisions.  ","1.Knowledge is power.
+2.Informed decisions are key.
+3.People using rough statistics appear knowledgeable, but their information is often sketchy.  ",5,4,5,2,3,5,1,5,1,3,5,3,"I'm looking forward to your class. 
+
+I have never been good at math, but I'm hoping that the second time around I'll retain more and be better at knowing when someone is trying to use bad numbers to convince me to do something. ",NA,NA,4.33333333333333
+"29","20/06/15 17:33","Female",41,"no",NA,"To apply data analysis more effectively in real life and round out my liberal arts curriculum.","1. To enhance my career objectives as a Project / Program Manager
+2. To provide the foundation to support my goals/objectives/plans in the near and distant future of learning the art of grant writing
+3. To better position myself within my current opinions about the world as we know it",3,3,3,2,5,5,4,5,4,5,4,5,"I am excited to learn from you on how to integrate social sciences and use of mathematics!",NA,NA,3.66666666666667
+"30","21/06/15 13:30","Male",28,"yes",7,"To refresh my stats knowledge and also to see SPSS and R in action for the very first time, hopefully leading to new insight into potential career pathways.","helps boil down a ton of information into short discernible statements
+
+may lead to new insight into potential career pathways
+
+helps understand probabilities of outcomes from a particular scenario given a set of initial assumptions
+",4,3,4,4,5,4,5,5,4,4,4,4,"i would certainly be interested in learning about applications and examples of statistics used in criminology, development psychology, and other examples from Ms. Besemer's professional experience",NA,NA,4
+"31","22/06/15 07:35","Female",55,"no",NA,"I've never taken one before, and I needed to take something as a continuing ed course is part of my development plan.
+
+Reading the course description, I'm hoping to learn additional analytical skills and use them in my current role.","analytical skills
+problem solving skills
+decision making skills
+",3,3,3,4,5,5,2,5,4,5,5,1,"I hope the word ""gentle"" in the title wasn't a bait and switch tactic to get people in the class! I can't lie, I'm a little scared :/",NA,NA,2.33333333333333
+"32","22/06/15 10:35","Male",36,"incomplete",5,"Help supplement professional goals and enhance my understanding of career related research. ","Statistical analysis directly applies to professional career
+Interest in research
+Graduate degree program",3,3,3,3,4,5,3,5,3,5,5,4,"n/a",NA,NA,3.33333333333333
+"33","22/06/15 11:22","Female",36,"yes",8,"Specifically I was trying to figure out how to determine if a test I was doing would be statistically relevant.  I realized I needed more knowledge of statistics - theory and application - in order to do my job.","1. It helps me create useful tests and understand the results
+2. It helps me communicate with my data scientists and data analyst partners more effectively
+3. It builds the definitive case for what I would like to do, or stop doing, with my email program and helps me to answer interesting questions. ",5,3,5,4,5,5,5,5,5,5,5,5,"I'm really looking forward to the class.",NA,NA,5
+"34","22/06/15 13:08","Female",38,"no",NA,"to learn statistics","I am a researcher
+To make better data analysis
+to improve my skills
+",2,3,3,2,3,3,1,4,4,3,4,4,"nope, thank you",NA,NA,3
+"35","22/06/15 15:57","Female",31,"no",NA,"I am a doctoral student in the field of environment. Statistical analysis is required in all research work I do. It will be interesting to learn the same in this course.","A proper introduction of statistical analysis will be useful for my doctoral research and career interest as researcher. Knowledge of statistical softwares and excel based analysis are also of much interest for my career path.",3,1,5,4,1,5,2,5,2,5,5,4,"I am excited to attend the course !",NA,NA,4
+"36","22/06/15 20:14","Male",40,"Probability",9,"From statistics to machine learning","I believe it is prerequisite for machine learning and big data",5,2,1,4,5,5,5,5,5,5,5,5,"Is that course for dummies?",NA,NA,3.66666666666667
+"37","22/06/15 23:24","Female",28,"yes",6,"Mostly for a mathematical refresher. It has been 6+ years since my last statistics course was taken, and now that I am applying for graduate school they require a more current math course.","Why statistics could be useful...
+
+1) Statistics are everywhere (hello 2016 presidential elections!)
+2) To calculate my odds of failing this course. Or passing.
+3) To have a more in-depth understanding of medical studies.",2,3,3,2,4,4,2,5,3,5,4,3,"Looking forward to this!",NA,NA,2.66666666666667
+"38","23/06/15 07:26","Male",63,"no",NA,"I write about education policy, including research, and don't know enough to sort bad research from good, to summarize it with confidence and know when I am being snowed by BS. That applies to every day life as well; we live in a world of statistics abuse, from climate change to childhood vaccinations. ","Better understand research I read not only in my work but in news every day; 
+Become smarter about the news I read daily;
+Make wiser decisions, from playing the lottery to buying earthquake insurance (and determining the statistical difference between the two). 
+
+",3,4,3,2,3,5,2,5,3,4,3,3,"Looking forward to the course. ",NA,NA,3
+"39","23/06/15 19:15","Male",62,"yes",6,"The last time I took a full statistics course was in college and I don't recall loving it.  I've recently taken several courses, (Mathematics of Personal Finance, and Real Estate Finance, Statistics and Valuation Modeling) that had some components of statistics and it piqued my interest.","I want to use more statistical analysis in my work.",5,3,2,4,4,4,3,5,4,3,4,3,"I want to learn about multiple regression and how to use statistical functions in Excel.",NA,NA,3.33333333333333
+"40","23/06/15 21:32","Female",25,"yes",5,"I would like to take this course because i think that one can apply statistic principles and knowledge in almost every aspect of everyday life as well as in any professional environment. I believe it is extremely useful and captivating once you get to understand and therefore like it. ","#NAME?",3,3,4,3,4,5,5,5,5,5,5,5,"Thank you for having this course in the Continuing Studies Program. Looking forward to learning. ",NA,NA,4
+"41","23/06/15 21:36","Female",32,"no",NA,"I began to have an interest in data analysis through my work to have better understanding in the background of our sales trend or leveraging the analysis to our future planning. I found that having a better understanding in statistics will help me to improve the quality of my analysis. Since I do not have a strong background with math, I thought ""gentle introduction"" would be a perfect course for me to start learning about statistics. ","1. Having a better understanding in statistics will add further depth and firmer confidence to analysis that I do at work
+2. Statistics would be a key factor to support data driven approach that I would like to expand in our planning process
+3. Improving the quality of my data analysis by using knowledge of statistics would expand the possibility of my future career. ",4,3,5,3,4,5,3,5,2,4,5,4,"No further thoughts at this moment.",NA,NA,4.33333333333333
+"42","23/06/15 23:36","Female",24,"no",NA,"My role at work is shifting towards growth marketing and it will be helpful to have a base knowledge of stat to better understand A/B experiments that I'll be working on going forward. ","1. Understanding impact of A/B testing on our website
+2. Understanding A/B tests and impact for new product development
+3. Understanding user survey results to better drive product decisions",1,4,5,1,5,4,4,5,4,4,4,3,"N/A",NA,NA,3
+"43","24/06/15 11:02","Female",32,"no",NA,"I am starting my MBA in the fall and my first class is Statistics.  Was an Art History Major in my undergrad and have zero experience with Statistics.   I thought it would be a good way to warm up before my program begins in the fall.","economy
+consumer goods
+weather?",5,5,5,2,5,5,3,5,2,5,5,3,"N/A",NA,NA,4.33333333333333
+"44","24/06/15 11:18","Male",54,"yes",3,"I am transitioning from a career in Legal Education and starting full time work on my M.A. in Political Science at San Francisco State University this Fall. My first required class is a research class that uses quite a bit of Statistics. I hated the class as an undergrad! But I have had 10+ outstanding classes here at Stanford's Continuing Studies program so it seems like this is as good a start as any on the endeavor. I am hoping to: (1) get a refresher in Statistics-which I have blocked from my consciousness, and (2) hope that this class will help me not be lost in my research class in Graduate School. Plus, the word ""Gentle"", as it applies to anything, is appealing to me. ","1. Help with Grad School
+2. Conquer a demon class from decades ago (psychological victory)
+3. Let's face it - the working use of ""Statistics"" is vital to understanding and functioning in much of what goes on in the world and the workplace ",2,3,2,2,3,1,2,5,2,1,1,1,"Variations of these questions come straight out of my shrink visits!!",NA,NA,1.66666666666667
+"45","24/06/15 14:04","Female",25,"yes",6,"Brush up on stats in preparation for PhD applications!","- My job as an engagement analyst 
+- My future career (!)
+- To think more critically regarding the stats presented in various media outlets. 
+- And, just because, learning R is going to be great. Always wanted to. ",3,3,4,2,5,4,3,5,3,5,5,3,"I'm excited - definitely ready to dive back in (and hopefully, spend extra time on R!)",NA,NA,3.33333333333333
+"46","24/06/15 15:06","Male",-65,"yes",8,"taking quantum physics course(s) and much is based on probability/statistics.   wanted a better understanding of how statistics interacts with physics.","#NAME?",4,2,3,3,5,5,3,5,2,5,5,5,"nope",NA,NA,4
+"47","24/06/15 15:31","Female",41,"yes",6,"I want a refresher to my statistics knowledge","Data analysis in my research project
+Understanding data in the real world
+",3,4,5,3,5,5,3,5,2,5,5,3,"I look forward to the class",NA,NA,3.66666666666667
+"48","24/06/15 16:55","Carbon Unit",40,"no",NA,"Correlation to work activities","Data analytics",3,3,3,3,5,5,3,5,3,5,5,5,".",NA,NA,3.66666666666667
+"49","24/06/15 19:08","Male",35,"no",NA,"I am working in industry where we need to do a lot of data analysis.So am interested in taking the statistical course.","1)Data Analysis
+2)Patterns in Data
+3)Predicting future event from data",3,5,1,2,5,5,3,5,2,5,5,3,"Yes, will like to understand statistics better at the end of the course.Will like to have a working knowledge that will help me with my job.",NA,NA,2.33333333333333
+"50","24/06/15 21:17","Male",30,"yes",1,"As a Software developer I've found many situations where I a better understanding of Statistics would have helped me to build stronger arguments about how to build or improve some of the systems I've worked on. ","* Normally I've to lead with tons of data and I would like to have better tools to represent and find patterns in this data
+* Generate representative sample to test performance test in our systems 
+* Test hypothesis based on the available data. For example how to test new system component using a/b testing",2,4,1,3,5,5,5,5,5,5,5,5,"I would like to be able to do use R to solve the assignments instead of Excel. ",NA,NA,2.66666666666667
+"51","24/06/15 21:42","Male",43,"yes",3,"I'd like to have a better grasp of statistical inference.","I hope it will make me a better ""consumer"" of statistical information.  That's the main reason; I'm not sure I have two others.",5,3,5,2,4,4,3,5,4,5,5,4,"No additional thoughts.  ",NA,NA,4.66666666666667
+"52","24/06/15 22:02","Female",29,"yes",8,"To brush up my stats skills for when I go into graduate school","1. In graduate school
+2. At work when I need to run analysis
+3. When I am conducting my own research studies",4,3,5,3,5,5,5,5,5,5,5,5,"I would like to learn how to use SPSS more",NA,NA,4.66666666666667
+"53","24/06/15 22:12","Male",30,"yes",8,"I will be applying to graduate school next year. I have been out of college for seven years and want to take a college math course to prove my quantitative skills. ","1) On the surface, it is a form of math that is applicable to everyday life in a direct and obvious way.
+2) On a deeper level, knowledge of the inner workings of statistics allows a more nuanced understanding of arguments, perspectives, and inputs that frame decisions.
+3) It will be used directly in my professional life during and after grad school as a policy analyst.",5,2,3,4,5,5,3,5,3,5,5,5,"I had a number of bad math teachers in my early schooling (emphasis on memorization and not applicability) and did not enjoy math. I have since discovered a love of math on my own (and with Khan Academy) and have been excitedly re-learning and making connections among the various branches of math. ",NA,NA,4.33333333333333
+"54","24/06/15 23:56","Male",45,"Content included in other courses like manufacturing or simply general math",6,"For 2 reasons:
+
+1. it seems increasingly relevant in my discipline as internet product manager - not only to run experiments and support better decision making but also to understand how to extract value for product users.  Using my faulty intuition alone does not cut it anymore.  
+
+2. From reading Kahneman/Tversky, I have come to understand that the lack of ""statistical thinking"" can lead to poor judgment.","1. Better decision making at work and in life.
+2. Better general judgment
+3. Improve my ability to learn from experiments in data-intensive environments
+4. Better understand how to extract value from large volumes of data",3,4,5,2,4,1,5,5,5,5,5,5,"I enjoy abstractions and mathematics very much.  I enjoy making sense and deriving insights from data/signals.  however, I did not take a course in statistics.  The little I took was auxiliary to the courses.   I should also say that however fun was math for me, I felt intimidated by statistics.  Probably because I am more an intuitive that a detailed, numbers person?
+
+I look forward to learning and having fun.  Thanks!
+Jose",NA,NA,4.33333333333333
+"55","25/06/15 00:15","Female",41,"Finite Math",5,"To act and not pontificate","grant writing
+financials, personal and professional
+global business",3,3,5,2,5,3,5,5,4,3,3,3,"It's strange but my innate desire to use my math skills is coming back nearing my middle ages...hmmm it's not like I was not using my math in life but not to the fullest potential for the good of humankind.",NA,NA,3.66666666666667
+"56","25/06/15 00:19","Female",30,"Took some analytics courses",NA,"In my job and in my past analytics course works, a lot of statistics concepts are involved; I want to better understand solid statistics in order to make sense of some correlations or causation factors among variables.","1. To understand whether statistics is ""science"".
+2. To help me better understand data analytics tasks and results.
+3. To refresh my memory on maths.",5,2,3,3,5,5,3,5,2,5,5,5,"I'm excited to learn about how we can apply statistics to R, or vice versa.",NA,NA,4.33333333333333
+"57","25/06/15 09:43","Female",44,"yes",3,"Gain ability to analyze meaning of data.","Make better decisions, both personally and professionally, based on given data.
+Review others analysis to see if it makes sense, if there are other ways of looking at the same data.
+Potentially career change to data analytics.",3,3,5,3,5,5,5,5,5,5,5,5,"No",NA,NA,4.33333333333333
+"58","25/06/15 11:53","Male",41,"yes",8,"To learn more about ""modern"" methods including R. ","1. Part of my plan for work domination.
+2. Just kidding, would actually like to incorporate more sophisticated analyses into my work analyzing data from clinical trials. 
+3. Use the term Bonferroni correction while stroking my chin and actually know what I'm talking about. ",2,1,1,4,4,1,5,3,5,2,1,4,"A thought I had earlier was ""why is there so much traffic by the Ashby exit heading east all the time?""",NA,NA,2.33333333333333
+"59","25/06/15 14:27","Male",34,"no",NA,"I take this course for learn statistics, I think is helpful to my job","I am System Administrator, and think statistics is helpful for me when try to estimate the means to servers and  how many service I need for determined date ",3,4,3,3,1,5,3,5,4,5,5,3,"Hi, I like play guitar and play video games in my free time ",NA,NA,3
+"60","25/06/15 16:18","Male",53,"no",NA,"To have a greater understanding of the foundations and applications of statistics in the real world.","My primary interest is in big data applications and the Internet of Everything, both to know 1) how to interpret results in this hot new field and 2) to guide inquiries and direct the strategy and actions of teams to produce actionable insights.  3) lifelong learning should be a way of life, and my life will be enriched as a result of taking this Stanford Continuing Studies course!",5,3,5,4,5,5,5,5,5,5,5,5,"Many of the above questions seem to have a built-in bias!  I hope that this is by design and will be the basis for some of the objectives that you wish to accomplish.",NA,NA,5
+"61","25/06/15 16:43","Female",47,"no",NA,"To learn how to analyze Human Resource and workforce survey's outputs and employee survey's and other data reports used in corporations.","1.  Understand the analytical language used when reviewing, analyzing HR and employee data reports
+
+2.  Be able to use the data to make better decisions and to be able to explain recommended solutions.
+
+3.  Tell powerful stories interpreting the data.",1,2,5,1,5,5,1,5,1,5,5,1,"I would really love to love statistics and be able to understand the language and use it to present ideas and recommendations from data.",NA,NA,2.33333333333333
+"62","19/07/15 13:51","Male",45,"yes",8,"Review. I also have a general interest in statistics.","Use it for work; understanding documents, reports, etc. Also useful for interpreting news stories, as well as discerning what ""big data"" means, and how it is useful or not.",5,2,5,4,4,5,3,5,3,5,5,4,"Sorry for submitting this so late. I was traveling when it came out and I totally missed it! I thought that I would submit it anyway in case you wanted to update your data set -- although no need to do it on my behalf! Thanks.",NA,NA,4.66666666666667
+"63","30/11/15 08:36","Female",27,"yes",4,"I want to know how to do Statistics!","I'd like to advance my data science skills because:
+
+1) It seems potentially fun
+2) It could help me move into data science related work at my current job
+3) I want to learn skills related to Artificial Intelligence and stats seems relevant",3,3,3,2,5,5,4,5,4,5,5,5,"I'm super excited to take this course :)",NA,NA,3.66666666666667
+"64","30/11/15 11:19","Female",49,"yes",9,"I aced statistics in undergrad but I can't tell you why I did or remember any of the concepts. I'm taking the class to review and gain a deeper understanding of the concepts while applying them in my job. ","1.) I work with data all the time at work but can only provide rudimentary summaries.
+
+2.) Improve data literacy
+
+3.) Help propel me in my new Analyst role and beyond.",5,2,3,3,5,5,3,5,4,5,5,3,"Looking forward to participating in this class.",NA,NA,3.66666666666667
+"65","30/11/15 13:26","Male",37,"no",NA,"I had STAP funds to use and this course sounded interesting","A better understanding of how people manipulate data to suit their needs. I want to learn how to pick about the data and see if I am being deceived.",4,3,3,4,5,5,4,5,4,5,5,5,"nope",NA,NA,4
+"66","30/11/15 13:57","Female",25,"yes",6,"I love statistics. I want to learn how to use them accurately and how they are commonly misinterpreted. ","They factor into decision making, provide precision, and can be useful in arguments.",3,3,3,4,4,4,4,5,4,4,5,4,"Nope.",NA,NA,3.33333333333333
+"67","17/12/15 12:43","Male",29,"yes",3,"I want to learn more about data science and plan to use my knowledge with R and Python in the future.","1) Grow my career by being able to analyze and understand data 2) help family business grow by making business decisions from data 3) helping non-profits with data analysis.",5,1,3,3,5,5,4,5,5,5,5,5,"Looking forward to this class!",NA,NA,4.33333333333333
+"68","17/12/15 15:14","Female",29,"yes",5,"Because I want to freshen up my statistics knowledge, and to learn R","Helpful to reading research papers including statistical analyses, use statistical analyses in my own research papers, enhance my understanding of quantitative research.",5,5,5,3,5,5,3,5,3,5,5,4,"No.",NA,NA,4.66666666666667
+"69","20/12/15 15:22","Male",60,"no",NA,"I work in biotech and statistics are used quite often to interpret data and explain the relevance of the data to what we are trying to accomplish.","1. Helps with setting specifications
+2. Assists in the interpretation of data
+3. Give more meaning to data and give ones the confidence to make qualified conclusions/predictions from the data. ",4,4,3,4,3,3,3,5,3,4,5,5,"I am looking forward to this class.  I know enough statistics to be dangerous and I am apprehensive using statistics to describe my work for fear of being incorrect.",NA,NA,4
+"70","21/12/15 10:00","Female",25,"yes",7,"Refresher and to learn even more about statistics (hopefully, it's not too much of a review for me...)","1) I want to be a better data scientist
+2) Data is everywhere and understanding how to interpret that is helpful both professionally and personally
+3) Making decisions!",4,3,4,2,5,5,5,5,5,5,5,5,"N/A",NA,NA,4.33333333333333
+"71","28/12/15 18:49","Female",19,"no",NA,"I am taking this course because I enjoy mathematics! I recently graduated from high school and I am curious to learn about different subjects of my interest before beginning university. I would like to pursue a career in science, and by learning statistics it will help me understand data and make valid inferences in lab experiments etc. In addition, I have never a course in statistics before and I am eager to learn!","#NAME?",5,3,5,2,4,5,5,5,5,5,5,4,"Will you give us more information about Canvas on the first day of this course?",NA,NA,4.66666666666667
+"72","30/12/15 15:11","Female",35,"yes",5,"I'm a scientist, so I need to do statistical analysis. However, I still occasionally have no idea which test I should pick. That's why I took this course. ","As a part of research. ",2,4,3,2,3,3,3,4,4,4,4,3,"not now",NA,NA,2.66666666666667
+"73","1/1/16 18:14","Male",19,"no",10,"Was told to take it as it will be helpful with me figuring out if i really want my major to be apart of maths as i have never really enjoyed maths.","Will help me in my field of work i plan to do.
+Gives me an idea of my major or if i was to change it.
+Have to take another stats class but thought it would be better going through it first.
+
+",3,3,3,4,4,4,2,5,3,4,4,4,"Hope i learn a lot through this course.",NA,NA,3.33333333333333
+"74","1/1/16 19:16","Female",31,"no",NA,"I'd like to take a math course and statistics is a useful one.","1. With statistics, it is easier to analyze the pattern of numbers and to find out what they represent comprehensively and typically, and if there's any special conditions.
+2. Collect trustworthy data
+3. Draw reliable conclusions.",4,3,3,4,5,5,4,5,5,5,5,5,"Looking forward to this course!",NA,NA,4
+"75","3/1/16 15:59","Female",51,"no",NA,"I will be applying to the Masters in Public Administration Program at San Jose State University for the Fall 2016 and Statistics is a prerequisite. I am intimidated by the math concepts of statistics and want to get a better understanding of the use of statistics.","1) It will assist with coursework for the Master's in Public Administration Program I am applying to for Fall 2016.
+
+2) Learn how to quantify data.
+
+3) Allow me to better understand the surrounding world to see patterns of predictability.",2,3,3,4,4,5,2,5,3,5,5,2,"I am looking forward to falling in like with statistics. ",NA,NA,2.33333333333333
+"76","3/1/16 19:38","Male",30,"took ""journalism statistics"" class 10 years ago",5,"I would like to be able to talk confidently about statistics and have a working vocabulary and understanding of stats for my job.","- Much of my job involves talking with data scientists and I would like to be conversant and more comfortable with statistics.
+- I would like to be able to set up and run experiments and know what I'm doing.
+- It feels like an important field that I am interested in but unfortunately missed out on in college.",4,3,5,3,5,5,4,5,4,5,5,5,"I am excited about this class and looking forward to learning new things. ",NA,NA,4.66666666666667
+"77","4/1/16 0:07","Female",36,"yes",3,"I would like to handle a REAL data in statistics.
+Studying statistics by books was good but I cannot use the program(like SPSS) making my thesis. ","To study social policy.
+To read many paper.
+And to write good thesis.",1,3,1,2,2,1,4,4,4,2,2,3,"Questionary were interesting!",NA,NA,1.66666666666667
+"78","4/1/16 9:26","Male",54,"yes",7,"Would like to better understand how companies are using statistics with all the big data that is now available everywhere.","1. At work: To understand better how my company uses regressions
+2. At home: To educate my kids about how social media ads are targeted
+3. At social events: So I can keep up with the conversation after someone mentions R squared",5,2,2,4,5,5,4,5,5,5,5,5,"Thirty years ago statistics was stuck in a dusty closet, used only by rocket scientists and a couple people at Nielsen Ratings. Now it seems statistics and big data analytics (are they the same thing?) are everywhere. ",NA,NA,4
+"79","5/1/16 11:29","Female",50,"yes",10,"review of statistical models and the introduction to R exercises.","My current job demands it. 
+Career enhnacement for other jobs. 
+Allows for better overall understanding of the many data points that are presented as fact.",4,3,3,4,5,5,4,5,3,5,5,5,"I'm very excited to take this class.",NA,NA,4
+"80","6/1/16 13:42","Female",55,"yes",4,"My work increasingly includes helping to design projects testing changes in behavior based on different interactions. I want to understand the process and issues around designing such programs.","* issues setting up control and treatment groups.
+* implications of the sizes of the experimental groups.
+* understanding the ""gotchas"" in data presented from behavioral tests.
+",5,1,3,3,5,5,5,5,5,5,5,5,"I love your questions :-), and I love math and computers.",NA,NA,4.33333333333333
+"81","7/1/16 14:43","Male",34,"yes",10,"I want to know how different with my previous classes in my country, and want to listen the class in English for my future career.","1. It can be the strongest evidences when I talk to my future boss for strategies.
+
+2. I'm interested in a Big Data Analytics.
+
+3. I applied some graduate schools. Of course, department is statistics.",5,2,4,5,1,5,5,5,5,5,5,5,"I'm so excited. I can't wait until starting day.",NA,NA,4.66666666666667
+"82","11/1/16 15:36","Female",34,"yes",7,"Deepen my knowledge about statistics.","Job: 
+Data analyses human research
+research project design
+Data interpretation",3,4,5,4,5,4,3,5,3,5,5,4,"No.",NA,NA,4
+"83","11/1/16 23:21","Male",31,"no",NA,"Use statistics concepts regularly in my professional life so want to build a strong foundation of how to use, not abuse, statistics.","#NAME?",5,1,4,2,5,5,5,5,5,5,5,5,"Excited!",NA,NA,4.66666666666667
+"84","13/01/16 09:58","Male",45,"yes",2,"I want to learn more about Statistics and R programming","Better analysis of my research work
+Better desgin of experiments
+Graph making in R",5,3,4,3,5,4,4,5,5,5,5,5,"Please keep the course serious!",NA,NA,4.66666666666667
+"85","13/01/16 17:01","Female",29,"no",NA,"I am applying to a grad school program at UPenn for a Master's in Applied Positive Psychology and I need to beef up my math background a bit for my application. I will also need to have previous knowledge of stats in order to understand material presented in this program.","1) I am an education entrepreneur and I will need to be able present stats to present the efficacy of my idea.
+
+2) I will soon be a grad student and I will need to be able to read psychology stats in order to understand the material.
+
+3) It will be useful to my everyday work in the field of education to understand how stats can (or cannot) improve this field.",3,4,4,2,5,5,4,5,5,5,5,5,"I'm excited about this course! I think I'll need a little extra help in the beginning, but I'm a quick learner and am excited about how I can take what I learn in this course and apply it to my work right away!",NA,NA,4
+"86","14/01/16 15:58","Male",25,"yes",9,"I'm looking for jobs in consulting and I think this would be a helpful refresher/learning opportunity. I am also excited to gain experience using R. ","1) Help in my professional life.
+2) Tracking sports data
+3) Understanding media/informational studies",5,3,5,4,5,5,5,5,5,5,4,5,"Excited for a wonderful course. ",NA,NA,5
+"87","15/01/16 08:57","Female",25,"yes",10,"I'm interested in biostatistics as a field of further study in grad school and want to take this a refresher course (and hopefully learn something new as well!)","Stats can help solve problems (or cause more)
+I'm interested in applying stats to public health topics
+",4,1,3,4,5,5,5,5,5,5,5,5,"Looking forward to taking this class!",NA,NA,4
+"88","15/01/16 15:12","Female",30,"yes",5,"Want to understand the concepts behind the actual techniques used","I just took up the role of a data scientist; Need a refresher course and hands on experience",3,5,4,3,5,5,5,5,5,5,5,5,"Look forward to the classes",NA,NA,4
+"89","15/01/16 18:06","Female",45,"no",NA,"I am a language lecturer here at Stanford. I would like to learn about statistics related to quizzes, tests, grades and etc. ","1. helpful for my work
+2. important to understand students' progress
+3. statistics are everywhere in our daily life!",3,4,4,1,4,5,4,3,4,4,5,4,"hope it won't be too difficult...",NA,NA,3.66666666666667
+"90","15/01/16 18:49","Female",40,"no",NA,"It would help me at work (I'm a biologist), especially since I anticipate generating some quantitative (rather than qualitative) data in the next few months.","- helpful in my current job
+
+- useful on my CV if I run out of grant money and need to look for another job : )
+
+- I'm sure there's a third reason, but I can't think of it now.",3,2,3,4,4,4,5,5,5,5,5,5,"I enjoy math (I've forgotten a lot of high school math, unfortunately - like trig and calculus. It's just not in active use anymore :-( ). And I have some passing familiarity with stats (enough to make S.E.M. bars for a figure in a paper, and to understand what it means that p < 0.05 is the threshold for significance). ",NA,NA,3.66666666666667
+"91","17/01/16 08:14","Female",34,"yes",8,"I want to be grounded in statistics. This course will serve as a refresher introduction course, I am planning to take on more advanced statistics after this class. 
+I want to find a ""gentle"" way of teaching statistics to young kids, and I""m hoping to teach my kids statistics/ probability concepts as a fun activity. ","1. I would like to draw insights / inferences from data, any data that I see on a daily basis, and
+2. I would like to be able to make sense of the scientific studies/experiments that some of the companies claimed they have done, and be able to discern their validity, and 
+3. I would like to study computational linguistics in near future, statistics will definitely help me to build the foundation.",4,2,4,5,5,5,4,5,5,5,5,4,"I'm looking forward to this class!",NA,NA,4
+"92","17/01/16 13:31","Female",54,"yes",7,"Refresher on basic concepts so when reading RCT and other research papers or development economics lectures I understand more of the technical work.","1. Understanding RCT research results
+2. Understanding other research techniques and technologies
+3. Contributing to grant proposals which involve research",2,1,3,3,4,3,4,5,5,4,4,4,"Despite being interested in subject which is very useful to me, the course feels a bit like a ""should do"" versus ""want to do""!",NA,NA,3
+"93","17/01/16 19:42","Male",29,"no",NA,"It's a subject I need to learn to advance my career but not something I'm not willing to do via self-study. Reason is that it looks very dry. Doesn't sound as ""cool"" as learning to code for example.","1. To learn R and regressions for resume (am a project manager).
+2. To not be manipulated by people's (mis)use of statistics and data. 
+3. it's everywhere and vitally important in the startup world.",2,5,5,2,5,5,5,5,5,5,5,5,"I'm excited to get an introduction to an intimidating field. ",NA,NA,4
+"94","18/01/16 14:57","Female",30,"yes",1,"I have recently started a garden project at Juvenile Hall for rapists and murderers under 18 and am interested in how I can record data to indicate program success or failure. ","1. Will help me design a research proposal for a Fulbright Grant next year
+2. Will expand/update my analysis skills
+3. Increase my intelligence (hopefully)",1,5,3,2,4,4,2,5,3,4,4,2,"Although I dread attending this class, I do look forward to have a better understanding of Statistics. Thank you!",NA,NA,2
+"95","18/01/16 17:04","Female",51,"no",NA,"I need to understand it for work ","Understand research results 
+Can help understand real day statistics 
+Want to conquer my math phobia ",2,5,5,2,4,4,1,5,4,5,4,5,"N/a",NA,NA,4
+"96","18/01/16 17:05","Male",31,"yes",9,"Working as an Engineer, I believe statistics play a big part in the root cause analysis of any problem. A phenomenon can be either explained or predicted using statistical data.
+
+I work as a hardware engineer designing and testing complex hardware. When I started my job, I used to use a lot of 3-d simulation tools to help design the system. In an ideal world, if the design is perfect, the systems should work right away. But I found that, there are lots of variations involved in manufacturing a hardware. So, optimizing the parameters to have working margin and a better yield rather than building the best hardware.
+
+To accomplish the above, I started gathering a lot of statistics and analyzing the results to come up with the best design. 
+
+""A Gentle Introduction to Statistics"" would help me to understand the data better.
+","70% of my job involves getting the statistical data and then finding patterns to root cause the failures and making the design better.
+
+The current technology and the people generate tons of data every day and it is going to grow exponentially once the next generation technologies come into existence. Understanding the concepts of statistics would help me when I want to move to a different career path.
+
+",5,2,4,4,5,5,5,5,5,5,5,5,"No.",NA,NA,4.66666666666667
+"97","18/01/16 19:26","Male",48,"yes",9,"I decided to do PhD following long years in business life. I take some courses to get prepared for my PhD.","Explained above..",5,3,3,5,5,5,5,5,5,5,5,5,"I will be very excited to join your class and I am looking forward to refreshing my knowledge.",NA,NA,4.33333333333333
+"98","18/01/16 22:15","Queer",36,"no",NA,"Expand my knowledge base, and learn how to interpret data and numbers","1. Better understanding of data and numbers
+2. Support in making predications
+3. Will help in making decisions",3,3,4,2,4,4,3,5,4,4,4,3,"Looking forward to the class!",NA,NA,3.33333333333333
+"99","19/01/16 08:52","Male",34,"no",NA,"I am trying to get into graduate school, and I have a weakness in this area. ","1. Better pattern recognition.
+2. Stronger graduate school application.
+3. Better at my job - I am a program coordinator at Stanford and much of the research in my department deals with statistics. ",1,4,3,2,4,1,3,1,2,2,1,1,"I did well enough in math classes in high school and in undergraduate, and I expect to do well in this course. I have never taken a statistics class but I do like playing with numbers.",NA,NA,1.66666666666667
+"100","19/01/16 09:34","Male",47,"class of ""Quality Control""",8,"I'm interested in Statistics.","It could give me mathematical thinking.
+To understand Statistical Inference.
+To understand Experimental Design.",3,2,5,4,3,3,4,4,5,4,3,4,"I have no laptop PC to be used in the class.",NA,NA,4
+"101","19/01/16 10:22","Female",27,"yes",9,"Review the the statistics material to keep on the R and Python learning.","Job ",5,4,3,4,4,4,4,5,4,5,5,4,"It would be great that there could be more R or Python practices and application during the class or for the exercises. ",NA,NA,4
+"102","19/01/16 17:19","Female",27,"yes",5,"I want to learn statistics!","1) It will help me be able to provide meaningful insights on data at work
+2) It will help me understand how to evaluate statistical statements in the news
+3) It seems fun, and fun is useful for happiness :)",3,3,3,2,5,5,5,5,4,5,5,5,"This course is exciting and I'm glad to be able to take it!",NA,NA,3.66666666666667
+"103","19/01/16 18:28","Male",35,"no",NA,"I want to take the course for possible new methods of saving; time, money, and energy. ","Statistics will be useful to me first, in terms of increased productive time management, second to assist in my upward mobility- career wise, and thirdly to relieve anxiety when in a social setting where math is used as a language.  ",4,3,4,4,5,5,4,5,4,5,5,5,"Do you believe that understanding Statistics assist in the quest for a life partner? 
+
+Can Mathematics be a tool used to form deeper bonds in relationships-in employment or academia? And if so what techniques are proven to achieve success.   
+
+Some individuals cannot recall all formulas and equations when they are not mathematicians are there any tips to improve memory.  ",NA,NA,4.33333333333333
+"104","19/01/16 20:31","Female",29,"no",NA,"Health research and social studies.","Research, understand the enviroment where I live, work in data Science, help my friends with their projects.",3,2,5,4,4,5,4,5,4,5,5,4,"ŒË?",NA,NA,4
+"105","19/01/16 21:31","Male",27,"no",NA,"Life can use stats :)
+Current occupation would benefit from an understanding of stats","Analyzing research data
+Making sense of reports
+Generating research recomendations 
+
+All the above in the context of user behavior, A/B testing, etc. ",1,4,5,3,4,5,5,5,5,4,5,5,"Excited to be in this course. ",NA,NA,3.66666666666667
+"106","19/01/16 22:56","Female",31,"no",NA,"So I can get a better understanding of how to use it for marketing purposes.","To help make more data driven marketing decisions
+To understand what marketing analysts are talking about 
+To know what types of tests to conduct ",3,4,4,2,5,5,2,5,3,5,4,2,"Hoping to learn some practical applications of statistics! Looking forward to starting the course.",NA,NA,3
+"107","20/01/16 12:45","Female",31,"yes",6,"I think it will be beneficial for analyzing manufacturing process control techniques.","it could be useful in data analysis, interpreting the expected value of an event in any field, manufacturing process control.",4,3,3,4,5,5,5,5,5,5,5,5,"-",NA,NA,4
+"108","20/01/16 13:54","Male",67,"yes",7,"This is a nice, low stakes way to review forgotten statistics for my own enrichment.","1. Understanding how to interpret daily statistical information.
+2. Analyzing any statistical data that I gather or encounter in my daily life.
+3. Educating others about the meaning of statistics they encounter.",5,4,3,3,4,5,4,5,5,5,5,5,"I also want to better understand the underlying philosophy of statistics and how that dovetails into the philosophy of science.",NA,NA,4.33333333333333
+"109","20/01/16 14:48","Female",32,"no",NA,"I work with Data Analytics solutions and that is a gap of knowledge I have and I want to work on it.","Data Analysis
+Improve my carreer
+Improve my decisions",1,3,3,3,5,5,5,5,5,5,5,5,"No",NA,NA,3
+"110","20/01/16 17:02","Female",30,"no",NA,"Two reasons; to hopefully use what I learn at work, and also out of pure interest.","I hear the phrase 'data driven decisions' weekly in my role. 
+I spend a lot of time looking at forecasting and trying to plan big projects around things we know and things we don't know.
+",3,2,2,1,5,5,5,5,5,5,5,4,"This questionnaire is pretty great.",NA,NA,3
+"111","20/01/16 18:11","Male",29,"yes",7,"I want a refesh on the topic.","Improve my work skills (software developer).
+Help me take more informed decisions.
+Improve my ability to analyze data.",5,3,3,2,5,4,5,5,5,5,5,5,"I would like to know if we could learn a bit of machine learning, I understand is probably off topic, but still kind of related.",NA,NA,4.33333333333333
+"112","21/01/16 12:42","Female",47,"no",NA,"I've been doing data analysis for a while (sw development background, lately more data warehousing, DB architecture, reporting). Data Science is very interesting to me and I'd like to start with the good foundation in statistics.","1. exploring future career in data science
+2. understanding the world better (I loved ""Thinking, Fast and Slow"" by Daniel Kahneman)
+3. in my current work, being able to see new ways to analyse data
+",4,2,3,3,5,4,4,5,5,5,4,5,"You covered all possible options, thank you :-)",NA,NA,4
+"113","21/01/16 22:16","Male",63,"no",NA,"I design websites and do user experience research for websites. As a designer, I'm constantly factoring probability into my judgment calls. As a researcher, I crunch a lot of data. I've read a few books on probability and stats and once did the design for a college textbook supplement on biostatistics. But I've never taken a class in it. High time I did.","I'm shifting my emphasis from designing websites to specializing in research. So I'm starting to deal with more stats than ever. It's getting a little embarrassing that I don't even know what a pivot table is, have no idea how to go beyond a gut sense of whether an amount is statistically significant, and know only that ""standard deviation"" is my favorite oxymoron.",4,3,5,3,5,2,1,5,1,5,5,2,"I'm particularly interested in probability.",NA,NA,3.66666666666667
+"114","26/01/16 13:11","Male",24,"no",NA,"I became unattached to mathematics since high school and want to re-enter its realm.","1) To engage that statistics part of my brain.
+2) To gain a broader perspective.
+3) To prepare for a job as an accountant?",5,1,3,3,4,4,5,4,5,2,4,5,"Enjoyed this.",NA,NA,4.33333333333333
+"115","26/01/16 15:34","Female",29,"no",NA,"learn about statistics, research in health","research, help to my friends in data analysis",3,3,5,3,5,5,4,5,4,5,5,4,"I answered this items last week, and I can see in the CANVAS the progress",NA,NA,4
+"116","16/05/16 08:49","Female",45,"no",NA,"I've studied statistics on my own and would like a structured approach. I also want to continue learning statistics after this course. ","It's necessary to understand how we make sense of the world.
+Statustics is necessary for understanding and working with big datasets.
+Learning statistics really well would help my confidence and self esteem.",4,3,5,2,5,5,1,5,1,5,5,5,"I answered that I have never been good at mathematics but I believe that can change with hard work and effort. ",NA,NA,4.66666666666667
+"117","16/05/16 16:39","Male",34,"yes",9,"To learn technical skills around statistics and update my knowledge on statistical theory and practice.","1) To understand patterns in data
+2) To visually represent large amounts of information
+3) To better identify when data is being manipulated to produce a preferred result.",5,4,4,4,5,5,3,5,4,5,5,4,"I am looking forward to the course!",NA,NA,4.33333333333333
+"118","16/05/16 21:06","Male",25,"yes",10,"I haven't done any statistics in a few years and think it would help bring method to the madness of the work I do in marketing right now. ","I work in marketing and have access to millions of observations which can be used to earn myself large bonuses (most people I work with still don't understand or believe in stats).
+
+I would like to attend grad school in the next year or two (or at least learn the equivalent outside of grad school).
+
+I love programming and statistics is really important to algorithms.
+",5,1,3,3,5,5,5,5,5,5,5,5,"I'm really excited about this course. My only fear is that it may be a little too cursory. I've been attempting to learn more about stats through wikipedia but am a little afraid that I'll misguide myself accidentally. 
+
+SamuelBruns@gmail.com",NA,NA,4.33333333333333
+"119","17/05/16 15:25","Female",32,"no",NA,"To understand statistics and to be able to apply it in data analysis. To be able to understand the stats guys on my team at work.","-Data Analysis at work.
+-Making more sense of the information around me.
+-----",2,4,1,1,4,4,3,5,3,5,5,3,"It would be good to understand the theory behind the equations, coefficients, terms etc. rather than just having to memorize them.
+
+Looking forward to the course!",NA,NA,2
+"120","18/05/16 00:41","Male",68,"no",NA,"I've had a lifelong interest in math. Also, my daughter had to take an introductory course in statistics in graduate school at MIT last fall and thought it was interesting, so I thought I'd give it a try. ","Purely for entertainment. I love working with numbers and spreadsheets. I grew up in business long before spreadsheets were invented, but I was fascinated by their power and utility and came to rely on them extensively during the last decade of my career as a media company executive. I've continued using them for everything from personal finances to investing. I thought statistics would be a way to extend my knowledge. ",5,3,3,2,4,5,5,5,5,5,5,5,"I'm looking forward to the class. ",NA,NA,4.33333333333333
+"121","20/05/16 12:11","Female",28,"yes",5,"To brush up on statistics skills as I start working on more quant-heavy projects at work.","1) Create better marketing channel tests
+2) Think in a more structured way
+3) Better prepare for taking the GMAT",3,5,5,3,5,5,3,5,2,5,5,5,"Excited for the class!",NA,NA,4.33333333333333
+"122","20/05/16 17:08","Male",45,"yes",5,"I am a HS math teacher and Stats is an area where I do not have much experience or interest. I want to find some ideas to bring to the classroom.","my job
+
+understanding stuff in the media
+
+general interest",3,3,3,4,5,5,5,5,5,5,5,5,"I like chocolate ice cream, puppies and the Warriors.",NA,NA,3.66666666666667
+"123","21/05/16 23:46","Male",48,"no",NA,"I want to draw meaningful conclusions. ","1. I'll lose less money gambling. 
+2. I can read news articles more critically. 
+3. I can make better decisions at work. ",4,3,5,4,4,5,3,5,4,5,5,4,"No",NA,NA,4.33333333333333
+"124","22/05/16 18:11","Male",63,"yes",7,"Review, additional insight into statistical techniques","It's the basis for much of machine learning. It's also useful in designing and evaluating experiments. It's useful in personal finance.",4,2,2,4,1,5,4,5,5,5,5,5," ",NA,NA,3.66666666666667
+"125","23/05/16 13:33","Female",35,"yes",5,"Prep for grad school ","#NAME?",3,3,3,2,2,2,2,3,2,3,3,1,"looking forward to this class",NA,NA,2.33333333333333
+"126","24/05/16 12:42","Female",29,"yes",3,"My job and research field use Stats all the time and I'm not comfortable or familiar enough with it to keep up with them. ","1. I want to at least be able to understand the basics to keep up with what my colleagues are doing with our data sets. Especially when presenting the results at conferences. 
+2. I want to increase my stats skills for my job today and for jobs in the future. 
+3. Understanding stats may help with my interest in politics to better understand what the current trends are given the regular use of polling data in the media. 
+",2,3,3,2,5,5,4,5,5,5,5,4,"I've lost my confidence with math/stats because I'm slow to do math in my head on the spot. I'm asked math questions on a regular basis at work and it's causing some stress. I used to love math as a kid but had a few bad teachers who discouraged me from continuing my studies. I'm hoping to change my attitude towards math/stats thru this course so that I enjoy doing math again. I'll do my best to stay positive and participate actively in this course!",NA,NA,3
+"127","24/05/16 17:30","Female",31,"yes",7,"Refresher","UX Research",4,3,3,4,5,5,5,5,5,5,5,5,"No, I'm good.",NA,NA,4
+"128","27/05/16 20:07","Female",21,"yes",2,"I work in the school of medicine and need to begin data analysis ","Analyzing data
+Writing papers
+My job",2,5,2,2,5,5,4,5,4,5,5,4,"I know that statistics will be incredibly useful for me and my future career!! Although I believe it will be a challenge, I know the payoff will be great! ",NA,NA,2.66666666666667
+"129","28/05/16 05:40","Male",37,"no",NA,"I understand the importance of statistics to understand behaviours and predict them. I have been looking for a class/course that can get me started in R for later Big Data analysis.
+I felt appealed by the teachers profile.","1) Understand deviations in my current role (CSAT, Case and incident rates, automation tools adoption, etc)
+2) Get me started into predictive analysis
+3) Get me started into Data Science",4,2,5,3,4,5,4,5,5,5,5,5,"Excited and looking forward to the first class !!!",NA,NA,4.66666666666667
+"130","29/05/16 10:09","Male",73,"yes",10,"I studied Statistics so long ago that I am not up-to-date at all. I would like to catch up and learn how to use the great software tools.","I really enjoy genealogy and I find the use of DNA testing to be a wonderful tool to find family relationships. I am fascinated with the medical information in DNA. -- There is so much data and statistics are used all over the place. I would like to understand what is going on. 
+
+I would like to understand what my investment advisor is telling me when he explains that my portfolio mix should yield 8.8%. But I assume this is the expected median and has a 50% probability of being true. Since he gives me the variability in different ways I should be able to better analyze the probabilities at different confidence levels. 
+
+I want to be able to understand the general economic conditions and what the real leading independent variables are.",5,1,5,5,5,5,5,5,5,5,5,5,"I started my B.S. in Accounting at BYU in 1960 and was shocked with my  first statistics class - this was way before computers. We used tables and learned how to use logarithms and how to extrapolate. The second class was also challenging. -- I transferred to USC to finish the degree and found the two 2 unit courses at BYU did not satisfy USC's requirement of two 4 unit courses. - I had to do the classes all over again. - The lights went on and it was actually fun. But we still were using tables and doing extrapolations.
+
+We never went through how the tables were derived. I still have my little green book with all the tables we used to use.
+
+",NA,NA,5
+"131","31/05/16 15:28","Female",22,"yes",5,"To improve my analytical skills in my job","1. Defining goals with good metrics
+2. Understand how to work with big data sets
+3. Come up with creative ways to understand issues",4,2,5,3,5,5,5,5,4,5,5,4,"-",NA,NA,4.33333333333333
+"132","1/6/16 22:09","Male",37,"no",7,"wanted to understand the basics of statistics first and then learn more advanced topics and apply those methods in my job.","1. General knowledge and application on day-to-day data around us
+2. as a  data engineer, need to deal with lots of data and understand them better and get perspective
+3. wanted to explore data science, building models and understand algorithms.",2,3,1,3,5,5,5,5,5,5,5,4,"i am good at computers and i was good at math during school days. Not in touch with math or statistics for a very long time.
+wanted to have strong foundation on this subject and practically apply them in day-to-day activities in general and at work.",NA,NA,2.33333333333333
+"133","7/6/16 9:20","Male",18,"no",NA,"I plan on majoring in math in college, so I want to both keep my brain occupied and familiar with mathematical concepts over the summer, as well as use it for applied purposes so I can maintain a practicality over the logic of it all.","Determining polls, measuring population rates, and seeing what foods can keep a person awake during the day the longest, potentially, of course.",4,2,3,3,2,3,5,5,5,3,4,5,"No.",NA,NA,4
+"134","9/6/16 3:58","Male",39,"no",4,"need to appreciate the practical usage of statistics key indices,","1) in my product management job to understand the impact of various stats example like defects, sales
+2) for improving my maths skills
+3) catch up and revise on concepts earlier understood but perhaps not appreciated.",3,2,3,1,5,5,4,5,5,5,5,5,"no",NA,NA,3.66666666666667
+"135","9/6/16 22:34","Male",36,"no",NA,"I work with a lot of data at work. I'd like to learn better how to gain insights from the data and represent those insights visually for others to understand. Also, it is an election year. I'd like to have a better understanding of how to interpret polls and all the stats that the candidates throw out there.","To better understand data.
+To gain insights from data.
+To gain better judgment on the validity other peoples' interpretation of data.",4,4,4,3,5,5,3,5,4,5,5,3,"I read the book 'How to Lie with Statistics' and really enjoyed that. Hopefully a real statistics course can be just as enjoyable while learning some real math.",NA,NA,3.66666666666667
+"136","12/6/16 12:19","Female",25,"no",NA,"To engage in structured education classes, and to prepare me for a future graduate degree/career related to medicine and health","Better understanding of data in everyday life
+Better understanding of statistics in scientific papers
+Ability to distinguish between good data and conclusions and less convincing data/conclusions",5,2,5,3,5,5,5,5,5,5,5,5,"Looking forward to the course!",NA,NA,5
+"137","13/06/16 19:35","Male",34,"no",NA,"Want to venture into data science.","career wise, to be able to apply statistics on data",5,1,4,5,5,5,5,5,5,5,5,5,"None",NA,NA,4.66666666666667
+"138","13/06/16 19:39","Male",19,"yes",7,"To relearn Statistics and to learn some new concepts.","1. statistics is useful in research 2. connect concepts to other maths 3. fact-check charts and graphs in readings",2,4,2,1,4,4,3,5,3,3,5,2,"how is this course going to be formatted?",NA,NA,2
+"139","14/06/16 17:03","Male",65,"no",NA,"I have a background in computer science, but I never took a statistics course.","1) understanding big data
+2) understanding medical trials
+3) Nate Silver",3,3,3,3,5,5,5,5,5,5,5,4,"Not now",NA,NA,3.33333333333333
+"140","14/06/16 19:24","Female",31,"yes",6,"I took Intro to Statistics as an engineering undergrad at Stanford. I must not have paid enough attention because I don't apply statistics in my line of work, instead I just do basic data analysis including averages, weighted average, totals, subtotals, linear escalation, and rarely, linear regression of data sets.  I would like to move to level 2 and do more interesting analysis.","I would like to be able to :
+
+1) understand the variety of approaches I could take to analyze a data set
+
+2) understand interpret the results of different kinds of test to know with what level of accuracy the result is true
+
+3) learn cool stuff that I can do using statistics in excel or with other tools that I hadn't thought about
+",4,1,2,1,5,5,4,5,4,5,5,4,"I will be on vacation for the last class, August 8th.  Is there any way to get the content in advance so I don't miss this?  Will stand by to learn more at the first class. Thanks!",NA,NA,3.33333333333333
+"141","15/06/16 14:14","Female",40,"no",NA,"I feel like I need to understand statistics to be literate in the world these days. I recommend it to others all the time, and think I should follow my own recommendation.","To assess data on student engagement and outreach. To learn more of the power of Excel. To understand quantitative research better. To understand standard deviations.",3,3,5,2,4,4,5,5,5,5,5,5,"I did calculus in high school and enjoyed it, multivariable and linear algebra in college--but that was over 20 years ago and I haven't taken math since.",NA,NA,4.33333333333333
+"142","16/06/16 17:38","Male",23,"yes",9,"Get back into Statistics and prepare to apply to Masters programs.","1. Applicable for insights into data
+2. It's something I'm interested in pursuing a career in
+3. numbers are cool. Meaningful numbers are way cooler",4,2,3,3,4,4,4,5,5,5,5,5,"I'm excited to start the class!",NA,NA,4
+"143","16/06/16 18:43","Male",43,"yes",6,"Refresh my knowledge in stats and learn further. Last time I took the course was in my graduate school. Now, I am more appreciative of applications of statistics in real world.","1. Lot more application of stats in technology now - big data, data science.
+2. Like to pursue career in this space.
+3. Deeper business analysis",2,3,4,4,1,5,4,4,4,4,5,5,"I like to learn any topic with real application and examples. I hope to get that from the class.",NA,NA,3.66666666666667
+"144","16/06/16 22:25","Male",27,"yes",2,"I am realizing that the first step to understanding data and what it means, I need to have the foundation of statistics. ","1. Better analysis at work 
+2. Big data is becoming more important
+3. Understanding of how to use stats to drive decisions
+",3,3,3,4,3,4,5,4,5,5,5,5,"I am a Mechanical Engineer by trade but now work in Business Development. I never excelled at statistics but I have experience using stats in different use cases.",NA,NA,3.66666666666667
+"145","17/06/16 07:24","Female",28,"no",NA,"I feel interested.","Career
+Introducing new info to myself
+Fun",4,3,5,2,5,5,3,5,5,5,5,5,"No",NA,NA,4.66666666666667
+"146","17/06/16 08:44","Male",53,"yes",5,"My job requires a good grasp of statistical concepts which I've forgotten since I earned my MBA.  I work in the health care industry where clinical studies are commonplace to create substantiation for our health care brands.  These clinical studies require a good grasp of statistical concepts.","It all centers around job performance, however, interpretation of data is critical for a wide variety of needs which are non work related.",3,5,5,2,4,4,4,5,4,4,5,5,"Looking forward to learning as much as possible.  Thank you.",NA,NA,4.33333333333333
+"147","17/06/16 11:20","Female",23,"yes",8,"I want to better analyse and understand data.","#NAME?",1,4,3,2,5,5,5,5,5,5,5,5,"No, thank you. ",NA,NA,3
+"148","18/06/16 16:36","Male",28,"no",6,"Statistics provides tools that you need in order to react intelligently to information you hear or read.","Design studies that answers the question at hand
+Analyze data appropriately
+Draw reliable conclusions",4,3,4,2,5,5,3,5,3,5,5,3,"-",NA,NA,3.66666666666667
+"149","19/06/16 13:31","Male",41,"no",NA,"Could become useful in my field of research when analyzing large sets of experimental data. Also, analysis of large data sets does appear to be en vogue right now, so why not learn a bit more about the underlying principles.","1. Correlating experimental results with control parameters.
+2. Prepare for the upcoming presidential election.
+3. Understand market fluctuations, stock, real estate, etc.",3,2,5,3,5,5,3,5,5,5,5,4,"Any reason why the highly regarded 'An Introduction to Statistical Learning
+with Applications in R' book by our beloved Stanford professors, which incidentally is available for free online, is not being used? Instead an $80 text book is suggested, which, as far as I can tell covers the same topics within the breadth of this course. Color me confused.",NA,NA,4
+"150","19/06/16 14:15","Female",28,"no",NA,"My team has a lot of useful statistics related problems. I want to be more comfortable understanding those when people are talking about it and I want to be able to contribute more meaningfully to those discussions.","I want to better understand the law of numbers.",3,3,3,2,5,5,5,5,5,5,5,5,"No",NA,NA,3.66666666666667
+"151","19/06/16 14:56","Female",20,"no",NA,"Taking STATS 13 at UC Davis in the fall, hoping to get a good grade by taking this course","Majoring in Economics, understand the market, use it to understand probability of things around me/events in my life",5,4,5,1,5,5,2,5,2,5,5,5,"I will have to miss one class on August 1st due to a pre-planned trip. I also am getting surgery on 6/22 so will be in a sling for the entirety of the course.",NA,NA,5
+"152","19/06/16 16:12","Male",26,"no",NA,"I am interested in Machine Learning.
+I took a course on ML by Andrew Ng on coursera and realized that Statistics would help understand and develop algorithms.
+","1. Using statistics on analyzing data better
+2. Developing balanced metrics to understand the data
+3. Its fun, very intuitive and challenging to come up with optimizations",5,1,3,3,5,5,5,5,5,5,5,5,"Very excited, going back to school after 2 years.
+",NA,NA,4.33333333333333
+"153","19/06/16 16:15","Male",33,"no",NA,"I want to learn statistics and see if i like it. If i don't like it , probably data science field is  not for me. My understanding is that data science requires a lot of good understanding and background in statistics. ","#NAME?",2,4,5,1,1,4,3,5,4,4,5,1,"Coma one is really true . I hope we can find some solution to it in this course.",NA,NA,2.66666666666667
+"154","19/06/16 17:25","Female",58,"no",NA,"I work in the Orthopedic surgery department. My current projects, especially experiments related to cell culture, need statistical analysis. While someone in the laboratory, or Stanford consultant, could perform it, I would like to at least understand basics and choices in statistical analysis. ","The same job-related reason: statistical analysis is often needed in many bio-medical projects, especially in comparison of multiple patients' samples.",3,3,3,1,3,3,3,5,4,4,4,4,"It turned out to be very difficult to find a basic statistics course for the beginners. Numerous advanced and intermediate courses which have various requirements. Thank you for bringing and introductory course to the Campus.",NA,NA,3.33333333333333
+"155","19/06/16 19:50","Female",36,"yes",3,"Will need statistics for work","1. Analyze data
+2, Interpret studies
+3. Publications",3,2,3,2,5,5,3,5,4,5,5,4,"N/A",NA,NA,3.33333333333333
+"156","19/06/16 22:40","Male",34,"no",NA,"Learn more about the math behind machine learning and data analysis","Learn the basics of data analysis. 
+Making better decisions using mathematical models. 
+Strengthen fundamentals.
+",3,4,5,3,5,4,5,5,5,5,5,4,"Not at this time. ",NA,NA,4
+"157","20/06/16 00:11","Male",62,"no",NA,"would like to get a better understanding","mainly because social science research seems to have incorporated a lot of statistical modeling which I would like to better understand. ",3,3,3,2,2,3,2,3,3,3,3,3,"no",NA,NA,3
+"158","20/06/16 08:51","Male",25,"no",NA,"Gentle introduction to the vast data science field","Know a little of the vast data science field
+Many companies use it for various purposes. It will be beneficial to know the basic concepts applied.
+Adding to the knowledge base.",3,3,3,1,4,4,4,4,4,4,4,4,"No",NA,NA,3.33333333333333
+"159","20/06/16 13:25","Female",24,"no",NA,"I lost my finance analysis base courses in my undergraduate study in Film & TV producing. Now I value the ability to analyze a project more and I think the capability of dealing with data is essential right now.","1. Improve my financial judgement.
+2. Different perception of seeing the world.
+3. Market research, I am more like a product manager, need statistics skills to make decisions.",3,2,2,2,4,5,4,5,2,4,4,2,"Excited about the class!",NA,NA,2.33333333333333
+"160","20/06/16 15:22","Female",23,"yes",8,"I have taken Biostatistics before and wanted to refresh my memory in it as well as add something new to my existing knowledge of stats.","Statistics will help me with:
+
+- My Research
+- My GRE exam =)
+- Psychology experiments",4,4,3,4,5,5,4,5,5,5,5,5,"No",NA,NA,4
+"161","20/06/16 17:10","Male",33,"no",NA,"Stats has never been my strong area. Now as a product manager building machine learning based products, Im exposed to data science and maths/stats concepts on a daily basis. Also, Im interested in learning how best to read and interpret data, and how to trust or not trust statistics.","1. Measuring and reporting impact of products I build 
+2. Analysing data and generating business insights
+3. Understanding how maths works in predictive algorithms",3,4,2,2,5,5,3,5,3,5,5,3,"No",NA,NA,2.66666666666667
+"162","20/06/16 17:47","Male",29,"yes",8,"I completed my undergrad in business and I am playing with the idea of going back to school for a Masters in Math, Statistics, or Computer Science. This would both re-expose me to the fields as well as give me a good idea of what I want to do. ","#NAME?",4,3,3,3,4,4,4,4,4,4,4,4,"Not necessarily. Just excited to see how the course goes. ",NA,NA,3.66666666666667
+"163","20/06/16 18:26","Male",28,"yes",2,"I want to do it thoroughly this time with excellent faculty of stanford. Also, I now know how this will fit in real world and that just makes me more interested in the subject this time around. ","Following are things that come to my mind. They are not in any priority order.
+
+1. Solving massive/big data problem intelligently which we collect from different sources. 
+2. Approaching real world situations more smartly.
+3. Want to explore how all the math fit in. ",2,4,1,4,5,5,5,5,5,5,5,5,"Just want to learn as much as I can. With all the questions I have I hope this class helps me in my journey to find answers to them. ",NA,NA,2.66666666666667
+"164","20/06/16 18:44","Female",31,"yes",4,"I work in the analytics team of Visa and am hoping that this course will help in performing better","Helps me in understanding statistics better
+How else to optimize our current analytics techniques
+Other market trends going on",4,2,5,5,5,5,5,5,5,5,5,5,"Excited to learn more on statistics!",NA,NA,4.66666666666667
+"165","20/06/16 18:44","Female",31,"yes",4,"I work in the analytics team of Visa and am hoping that this course will help in performing better","Helps me in understanding statistics better
+How else to optimize our current analytics techniques
+Other market trends going on",4,2,5,5,5,5,5,5,5,5,5,5,"Excited to learn more on statistics!",NA,NA,4.66666666666667
+"166","20/06/16 19:15","Male",35,"yes",7,"Refresh stats","A/B Tests
+Insights in product design
+Modeling",3,3,3,3,5,5,5,5,5,5,5,5,"No",NA,NA,3.66666666666667
